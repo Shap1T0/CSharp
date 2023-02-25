@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "P9XQ9B2ejWWNQ4udm5g79nWlJms96PMAKOVBF3KuTU93oYLKdomRxywoBhAO05UkwDsS7d1+Vnr+2DI9yX3GxA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Diro\\Desktop\\TaskParallelLibrary\\TaskParallelLibrary\\TaskParallelLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Diro\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

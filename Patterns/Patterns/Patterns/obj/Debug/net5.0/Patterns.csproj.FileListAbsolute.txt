@@ -1,0 +1,16 @@
+D:\Git\Patterns\Patterns\Patterns\bin\Debug\net5.0\Patterns.exe
+D:\Git\Patterns\Patterns\Patterns\bin\Debug\net5.0\Patterns.deps.json
+D:\Git\Patterns\Patterns\Patterns\bin\Debug\net5.0\Patterns.runtimeconfig.json
+D:\Git\Patterns\Patterns\Patterns\bin\Debug\net5.0\Patterns.runtimeconfig.dev.json
+D:\Git\Patterns\Patterns\Patterns\bin\Debug\net5.0\Patterns.dll
+D:\Git\Patterns\Patterns\Patterns\bin\Debug\net5.0\ref\Patterns.dll
+D:\Git\Patterns\Patterns\Patterns\bin\Debug\net5.0\Patterns.pdb
+D:\Git\Patterns\Patterns\Patterns\obj\Debug\net5.0\Patterns.csproj.AssemblyReference.cache
+D:\Git\Patterns\Patterns\Patterns\obj\Debug\net5.0\Patterns.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\Patterns\Patterns\Patterns\obj\Debug\net5.0\Patterns.AssemblyInfoInputs.cache
+D:\Git\Patterns\Patterns\Patterns\obj\Debug\net5.0\Patterns.AssemblyInfo.cs
+D:\Git\Patterns\Patterns\Patterns\obj\Debug\net5.0\Patterns.csproj.CoreCompileInputs.cache
+D:\Git\Patterns\Patterns\Patterns\obj\Debug\net5.0\Patterns.dll
+D:\Git\Patterns\Patterns\Patterns\obj\Debug\net5.0\ref\Patterns.dll
+D:\Git\Patterns\Patterns\Patterns\obj\Debug\net5.0\Patterns.pdb
+D:\Git\Patterns\Patterns\Patterns\obj\Debug\net5.0\Patterns.genruntimeconfig.cache
